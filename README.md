@@ -69,7 +69,7 @@ Before you start, make sure you have:
 - [ ] **Terraform installed** - [Download here](https://developer.hashicorp.com/terraform/downloads)
 - [ ] **AWS CLI installed** - [Download here](https://aws.amazon.com/cli/)
 - [ ] **AWS credentials configured** - Run `aws configure`
-- [ ] **An SSH key pair** in AWS (we use `del-labs-key`)
+- [ ] **An SSH key pair** in AWS (we use `del-labs-key`) #Create/Use your own
 
 ---
 

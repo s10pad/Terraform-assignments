@@ -5,9 +5,9 @@ environment  = "dev"
 project_name = "terraform-assignment"
 
 # S3 bucket names must be globally unique - update these with unique names
-state_bucket_name   = "del-labs-terraform-state-bucket"
-dynamodb_table_name = "terraform-state-locks"
-app_bucket_name     = "del-labs-app-bucket"
+state_bucket_name   = "s10arnaud-terraform-state-bucket"
+dynamodb_table_name = "s1-arnaud-terraform-state-locks"
+app_bucket_name     = "s10arnaud-app-bucket"
 
 # VPC Configuration
 vpc_cidr            = "10.0.0.0/16"
